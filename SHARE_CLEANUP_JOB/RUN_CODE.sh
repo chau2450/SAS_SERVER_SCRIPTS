@@ -1,0 +1,1 @@
+./bin/main $(pwd) output/directory_tree.txt output/file_info.txt params/exclusion.txt
