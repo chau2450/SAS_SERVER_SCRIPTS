@@ -1,4 +1,4 @@
-CC=gcc
+CC=musl-gcc
 CFLAGS=-Wall -Werror -static
 SRC_DIR=../src
 OBJ_DIR=../obj

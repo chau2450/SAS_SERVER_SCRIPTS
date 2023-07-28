@@ -1,25 +1,25 @@
-[RUN_CODE.sh]
+-RUN_CODE.sh
 [src]
-  [list.h]
-  [main.c]
-  [traverse_dirs.c]
-  [traverse_dirs.h]
-  [list.c]
+  -list.h
+  -main.c
+  -traverse_dirs.c
+  -traverse_dirs.h
+  -list.c
 [build]
-  [Makefile]
-[LICENSE]
+  -Makefile
+-LICENSE
 [output]
-  [file_info.txt]
-  [directory_tree.txt]
+  -file_info.txt
+  -directory_tree.txt
 [bin]
-  [main]
+  -main
 [test]
-[.gitignore]
+-.gitignore
 [params]
-  [exclusion.txt]
-[README.md]
+  -exclusion.txt
+-README.md
 [obj]
-  [list.o]
-  [traverse_dirs.o]
-  [main.o]
+  -list.o
+  -traverse_dirs.o
+  -main.o
 [include]
